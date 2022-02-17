@@ -1,0 +1,43 @@
+{
+    "basics": {
+        "name": "Vladislav German",
+        "label": "Front-End developer",
+        "info": "with experience in creating SPA",
+        "skills": "using React, Redux, Typescript...",
+        "email": "vlad.agito@gmail.com",
+        "x_title": "Hey, I'm",
+        "job": "Front-End developer",
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "vladloot",
+                "url": "www.linkedin.com/in/vladloot",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "vladloot",
+                "url": "https://github.com/vladloot",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "vladloot",
+                "url": "https://gitlab.com/vladloot",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "agito11",
+                "url": "https://t.me/agito11",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "Agito#2505",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    }
+}
