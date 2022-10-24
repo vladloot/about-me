@@ -1,6 +1,7 @@
 {
     "name": "personal-website-react",
     "version": "0.2.0",
+    "homepage": "https://vladloot.github.io/about-me",
     "dependencies": {
         "@material-ui/core": "^4.12.4",
         "@material-ui/icons": "^4.11.3",
@@ -9,6 +10,7 @@
         "@testing-library/react": "^9.3.2",
         "@testing-library/user-event": "^7.1.2",
         "classnames": "^2.2.6",
+        "gh-pages": "^4.0.0",
         "ios-inner-height": "^1.1.1",
         "popmotion": "^8.7.3",
         "react": "^16.13.1",
@@ -28,7 +30,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "reactSnapshot": {
         "exclude": [
