@@ -16,7 +16,7 @@ export const App = () => {
             <CssBaseline />
             <Router>
                 <Switch>
-                    <Route path="/" exact component={Home} />
+                    <Route path="/about-me" exact component={Home} />
                 </Switch>
             </Router>
         </ThemeProvider>
