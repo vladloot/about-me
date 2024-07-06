@@ -9,12 +9,6 @@
         "job": "Front-End developer",
         "profiles": [
             {
-                "network": "LinkedIn",
-                "username": "vladloot",
-                "url": "https://linkedin.com/in/vladloot",
-                "x_icon": "fab fa-linkedin-in"
-            },
-            {
                 "network": "GitHub",
                 "username": "vladloot",
                 "url": "https://github.com/vladloot",
@@ -28,8 +22,8 @@
             },
             {
                 "network": "Telegram",
-                "username": "@vladloot",
-                "url": "https://t.me/vladloot",
+                "username": "@betalok",
+                "url": "https://t.me/betalok",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
